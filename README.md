@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Auzek2002
-- 👀 I’m interested in Problem solving and AI. 
+- 👀 I’m interested in Web Development and AI. 
 - 🌱 I’m currently a Computer Science Student
 - 💞️ I’m open to collaborate!
 - 📫 How to reach me: azaanukhan@gmail.com
